@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "0a9a57994bc8e99c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4226765da48e0bd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd8229fdd282399f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "95408ca7d98ebbae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/Программирование/Собеседования/Вопросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ab9a23fc0c1a566",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ad7144f3f4ca96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "887b0615a3b822af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f1484c87005ce9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "331eb07993e5cca6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a98e371607e92390",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6e5923c0b88fdb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fea9f11891463648",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Учеба/Программирование/Собеседования/Вопросы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5d8af9d8bb5821a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Учеба/Программирование/Собеседования/Вопросы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "367b1d797a9bb41f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b321dd03b63262f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Учеба/Программирование/Собеседования/Вопросы.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "95408ca7d98ebbae",
+  "lastOpenFiles": [
+    "Учеба/Программирование/Собеседования/Вопросы.md",
+    "Учеба/Программирование/IT-KAMASUTRA",
+    "Учеба/Программирование/Собеседования",
+    "Тест.md",
+    "Учеба/Программирование",
+    "Работа/Проекты",
+    "Работа",
+    "Личное",
+    "Личное/Идеи",
+    "Учеба"
+  ]
+}
